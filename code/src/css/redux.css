@@ -1,0 +1,14 @@
+.container{
+    display: flex;
+}
+.left-side,.right-side{
+    flex: 1;
+}
+.operator input{
+    margin-bottom: 10px;
+}
+.operator button{
+    display: block;
+    width:50px;
+    margin-bottom: 10px;
+}
